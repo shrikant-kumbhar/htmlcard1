@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+
+.card{
+    float:left;
+    width: 36%;
+    padding: 10px;
+    background-color: aliceblue;
+    margin-left: 150px;
+    margin-top: 27px;
+}
+
+.header{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font: size 20px;
+    font-weight: bold;
+    color:white;
+    text-align: center;
+}
+
+ .learnm{
+    border: 1px solid black;
+    border-radius:50px;
+    text-align: center;
+    padding: 10px;
+}
+
+.learnm:hover{
+    background-color:black;
+    color: red;
+}
+
+.card img{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.card p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
